@@ -5,7 +5,7 @@ The Padel Court Booking Data Extractor and Scheduler is a Python application des
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-PadelCourt-BookingData-Extractor.png)](https://drive.google.com/file/d/1GheTBEEh_zEAfI_WAuBqNqPyTW85IK9L/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-PadelCourt-BookingData-Extractor.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-PadelCourt-BookingData-Extractor.mp4)
 
 ## Features
 - **Automated Extraction:** Extracts court booking data from the Padel Haus website at regular intervals.
